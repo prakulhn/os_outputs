@@ -1,0 +1,18 @@
+Enter the number of processes: 3
+Enter process id of all the processes: 1 2 3
+Enter burst time of all the processes: 5 11 11
+Process ID Burst Time Waiting Time TurnAround Time
+1
+5
+0
+5
+2
+11
+5
+16
+3
+11
+16
+27
+Avg. waiting time= 7.000000
+Avg. turnaround time= 16.000000
