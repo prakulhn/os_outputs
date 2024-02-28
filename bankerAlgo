@@ -1,0 +1,13 @@
+Enter the no of processes:4 
+Enter the no ofresource classes:3 
+Enter the total existed resource in each class:3 2 2 
+Enter the allocated resources:1 0 0 5 1 1 2 1 1 0 0 2 
+Enter the process making the new request:2 
+Enter the requested resource:1 1 2 
+Enter the process which are n blocked or running:process 2: 
+1 2 
+process 4: 
+1 0 
+process 5: 
+1 0 
+Deadlock will occur
