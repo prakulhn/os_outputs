@@ -1,0 +1,12 @@
+Enter Number of Processes: 2 
+Enter Burst Time and Priority Value for Process 1: 5 3 
+Enter Burst Time and Priority Value for Process 2: 4 2 
+Order of process Execution is 
+P1 is executed from 0 to 5 
+P2 is executed from 5 to 9 
+Process Id  Burst Time  Wait Time 
+P1           5           0
+P2           4           5
+
+Average waiting time is 2.500000 
+Average TurnAround Time is 4.50 
